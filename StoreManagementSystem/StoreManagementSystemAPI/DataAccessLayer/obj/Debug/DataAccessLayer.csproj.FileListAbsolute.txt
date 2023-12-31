@@ -59,3 +59,5 @@ F:\Project ASP.Net\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSys
 F:\Project ASP.Net\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 F:\Project ASP.Net\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
 >>>>>>> 12a0558d0b65e40b1046ead91abaed54134f0870
+E:\Joydep\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.tokenAdd.resources
+E:\Joydep\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.tokenRemove.resources

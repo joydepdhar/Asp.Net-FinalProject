@@ -54,22 +54,16 @@
     <Compile Include="DataAccessFactory.cs" />
     <Compile Include="Interfaces\IAuth.cs" />
     <Compile Include="Interfaces\IRepo.cs" />
-    <Compile Include="Migrations\202312311916585_initDB.cs" />
-    <Compile Include="Migrations\202312311916585_initDB.designer.cs">
-      <DependentUpon>202312311916585_initDB.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202312311927181_tokenAdd.cs" />
-    <Compile Include="Migrations\202312311927181_tokenAdd.designer.cs">
-      <DependentUpon>202312311927181_tokenAdd.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202312311956268_tokenRemove.cs" />
-    <Compile Include="Migrations\202312311956268_tokenRemove.designer.cs">
-      <DependentUpon>202312311956268_tokenRemove.cs</DependentUpon>
+    <Compile Include="Migrations\202312312256324_initDB.cs" />
+    <Compile Include="Migrations\202312312256324_initDB.designer.cs">
+      <DependentUpon>202312312256324_initDB.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Customer.cs" />
+    <Compile Include="Models\FeedBack.cs" />
     <Compile Include="Models\Product.cs" />
     <Compile Include="Models\ProductCustomer.cs" />
+    <Compile Include="Models\Review.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repos\CustomerRepo.cs" />
@@ -83,14 +77,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202312311916585_initDB.resx">
-      <DependentUpon>202312311916585_initDB.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202312311927181_tokenAdd.resx">
-      <DependentUpon>202312311927181_tokenAdd.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202312311956268_tokenRemove.resx">
-      <DependentUpon>202312311956268_tokenRemove.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202312312256324_initDB.resx">
+      <DependentUpon>202312312256324_initDB.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
