@@ -9,8 +9,15 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Repos
 {
-    internal class UserRepo : Repo, IRepo<User, int, User>
+    internal class UserRepo : Repo, IRepo<User, int, User>,IAuth<bool>
     {
+        public bool Authenticate(string Email, string Password)
+        {
+            var data = (from u in db.Users where u.Email.Equals(Email) && u.Password.Equals(Password)select u).SingleOrDefault();
+            if (data != null) return true;
+            return false;
+        }
+
         public User Create(User obj)
         {
             db.Users.Add(obj);

@@ -52,10 +52,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataAccessFactory.cs" />
+    <Compile Include="Interfaces\IAuth.cs" />
     <Compile Include="Interfaces\IRepo.cs" />
     <Compile Include="Migrations\202312302101454_intiDB.cs" />
     <Compile Include="Migrations\202312302101454_intiDB.designer.cs">
       <DependentUpon>202312302101454_intiDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202312311927181_tokenAdd.cs" />
+    <Compile Include="Migrations\202312311927181_tokenAdd.designer.cs">
+      <DependentUpon>202312311927181_tokenAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202312311956268_tokenRemove.cs" />
+    <Compile Include="Migrations\202312311956268_tokenRemove.designer.cs">
+      <DependentUpon>202312311956268_tokenRemove.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Customer.cs" />
@@ -76,6 +85,12 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202312302101454_intiDB.resx">
       <DependentUpon>202312302101454_intiDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202312311927181_tokenAdd.resx">
+      <DependentUpon>202312311927181_tokenAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202312311956268_tokenRemove.resx">
+      <DependentUpon>202312311956268_tokenRemove.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

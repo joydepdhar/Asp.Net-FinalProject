@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BusinessLogicLayer.DTOs
+namespace DataAccessLayer.Interfaces
 {
-    internal class DTOs
+    public interface IAuth<RET>
     {
+        RET Authenticate(string Email, string Password);
     }
 }

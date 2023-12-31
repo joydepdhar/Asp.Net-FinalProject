@@ -14,6 +14,7 @@ namespace DataAccessLayer
         public DbSet<Product> Products { get; set; }
         public DbSet<Customer> Customers { get; set; }
         public DbSet<ProductCustomer> CustomersCustomers { get; set;}
+        
 
     }
 }

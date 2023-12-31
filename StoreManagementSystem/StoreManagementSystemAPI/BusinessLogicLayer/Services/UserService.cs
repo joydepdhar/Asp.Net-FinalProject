@@ -70,6 +70,12 @@ namespace BusinessLogicLayer.Services
             return mapper.Map<UserDTO>(data);
             //return RET;
         }
+        public static bool Delete(int id)
+        {
+            var res = DataAccessFactory.UserData().Delete(id);
+            return res;
+        }
+
 
     }
 }

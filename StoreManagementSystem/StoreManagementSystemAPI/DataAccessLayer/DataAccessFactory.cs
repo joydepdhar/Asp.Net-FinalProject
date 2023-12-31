@@ -23,5 +23,9 @@ namespace DataAccessLayer
         {
             return new CustomerRepo();
         }
+        public static IAuth<bool> AuthData()
+        {
+            return new UserRepo();
+        }
     }
 }

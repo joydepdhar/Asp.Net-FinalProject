@@ -57,7 +57,29 @@ namespace StoreManagementSystemAPI.Controllers
                 return Request.CreateResponse(HttpStatusCode.InternalServerError, new { Message = ex.Message });
             }
         }
+        [HttpGet]
+        [Route("API/Users/login")]
+        public HttpResponseMessage Authenticate(UserDTO u)
+        {
+            try
+            {
+                var data = AuthService.Authentication(u.Email, u.Password);
+                return Request.CreateResponse(HttpStatusCode.OK, data);
 
+            }
+            catch (Exception ex)
+            {
+                return Request.CreateResponse(HttpStatusCode.InternalServerError, new { message = ex.Message });
+            }
+        }
+        [HttpGet]
+        [Route("API/Users/Delete/{id}")]
+        public HttpResponseMessage DeleteUser(int id)
+        {
+            var res = UserService.Delete(id);
+            return Request.CreateResponse(HttpStatusCode.OK, res);
+
+        }
 
     }
 }
