@@ -26,3 +26,17 @@ H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSyste
 H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
 H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
 H:\10Th Semester\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+E:\Joydep\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+E:\Joydep\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\Joydep\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\AutoMapper.dll
+E:\Joydep\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+E:\Joydep\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+E:\Joydep\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\Joydep\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+E:\Joydep\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\AutoMapper.xml
+E:\Joydep\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+E:\Joydep\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+E:\Joydep\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\Joydep\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+E:\Joydep\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+E:\Joydep\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
