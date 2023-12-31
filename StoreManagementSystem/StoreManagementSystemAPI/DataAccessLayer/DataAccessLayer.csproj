@@ -54,9 +54,9 @@
     <Compile Include="DataAccessFactory.cs" />
     <Compile Include="Interfaces\IAuth.cs" />
     <Compile Include="Interfaces\IRepo.cs" />
-    <Compile Include="Migrations\202312302101454_intiDB.cs" />
-    <Compile Include="Migrations\202312302101454_intiDB.designer.cs">
-      <DependentUpon>202312302101454_intiDB.cs</DependentUpon>
+    <Compile Include="Migrations\202312311916585_initDB.cs" />
+    <Compile Include="Migrations\202312311916585_initDB.designer.cs">
+      <DependentUpon>202312311916585_initDB.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\202312311927181_tokenAdd.cs" />
     <Compile Include="Migrations\202312311927181_tokenAdd.designer.cs">
@@ -83,8 +83,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202312302101454_intiDB.resx">
-      <DependentUpon>202312302101454_intiDB.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202312311916585_initDB.resx">
+      <DependentUpon>202312311916585_initDB.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202312311927181_tokenAdd.resx">
       <DependentUpon>202312311927181_tokenAdd.cs</DependentUpon>
