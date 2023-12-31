@@ -40,3 +40,17 @@ E:\Joydep\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\Bu
 E:\Joydep\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
 E:\Joydep\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
 E:\Joydep\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+F:\Project ASP.Net\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+F:\Project ASP.Net\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+F:\Project ASP.Net\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\AutoMapper.dll
+F:\Project ASP.Net\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+F:\Project ASP.Net\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+F:\Project ASP.Net\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+F:\Project ASP.Net\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+F:\Project ASP.Net\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\AutoMapper.xml
+F:\Project ASP.Net\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+F:\Project ASP.Net\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+F:\Project ASP.Net\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+F:\Project ASP.Net\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+F:\Project ASP.Net\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+F:\Project ASP.Net\Asp.Net-FinalProject\StoreManagementSystem\StoreManagementSystemAPI\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
