@@ -66,8 +66,9 @@ namespace BusinessLogicLayer.Services
                 c.CreateMap<User, UserDTO>();
             });
             var mapper = new Mapper(cfg);
-            var RET = mapper.Map<User>(data);
-            return mapper.Map<UserDTO>(RET);
+            //var RET = mapper.Map<User>(data);
+            return mapper.Map<UserDTO>(data);
+            //return RET;
         }
 
     }
